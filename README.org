@@ -1,0 +1,13 @@
+* CuriousCheetah
+A simple file fuzzy search application with keyboard navigation.
+
+** Usage
+#+begin_src
+# Start the development server
+just setup
+#+end_src
+
+** Keyboard Shortcuts
+- =Ctrl-n= - Move down in the suggestion list
+- =Ctrl-p= - Move up in the suggestion list
+- =Enter= - Select the currently highlighted suggestion

@@ -1,0 +1,286 @@
+{
+  "files": [
+    {
+      "path": ".project_watchexec.sh"
+    },
+    {
+      "path": ".renovaterc.json"
+    },
+    {
+      "path": "README.md"
+    },
+    {
+      "path": "add-google-search-links/add-links.tmpl"
+    },
+    {
+      "path": "auto-complete-textbox-with-keyboard/README.md"
+    },
+    {
+      "path": "auto-complete-textbox-with-keyboard/auto-complete-textbox-with-keyboard.tmpl"
+    },
+    {
+      "path": "autocomplete-textbox-using-react/README.md"
+    },
+    {
+      "path": "autocomplete-textbox-using-react/autocomplete-textbox-using-react.tmpl"
+    },
+    {
+      "path": "aws-vault/aws-vault-pass-prompt.sh"
+    },
+    {
+      "path": "aws-vault/aws-vault-setup.sh"
+    },
+    {
+      "path": "bluewhispers/README.md"
+    },
+    {
+      "path": "bluewhispers/go.mod"
+    },
+    {
+      "path": "bluewhispers/justfile"
+    },
+    {
+      "path": "bluewhispers/main.go"
+    },
+    {
+      "path": "bluewhispers/setup-app-mod"
+    },
+    {
+      "path": "bluewhispers/setup-mod-app"
+    },
+    {
+      "path": "bluewhispers/{{ .Module }}.patch"
+    },
+    {
+      "path": "bluewhispers/{{ .ModuleConsumer }}.patch"
+    },
+    {
+      "path": "common-apps/common-apps.tmpl"
+    },
+    {
+      "path": "crustalmice/README.md"
+    },
+    {
+      "path": "crustalmice/justfile"
+    },
+    {
+      "path": "crustalmice/main.tf"
+    },
+    {
+      "path": "crustalmice/provision.sh"
+    },
+    {
+      "path": "crustalmice/ubuntu.pkr.hcl"
+    },
+    {
+      "path": "does-boilerplate-offer-option-as-library/use-boilerplate-as-library.tmpl"
+    },
+    {
+      "path": "fabric/fabric.tmpl"
+    },
+    {
+      "path": "galaxygoat/README.md"
+    },
+    {
+      "path": "galaxygoat/justfile"
+    },
+    {
+      "path": "galaxygoat/setup.sh"
+    },
+    {
+      "path": "global-hotkey-open-webui/README.md"
+    },
+    {
+      "path": "go-app-use-cobra-cli/go-app-use-cobra-cli.tmpl"
+    },
+    {
+      "path": "golang-app/golang-app.tmpl"
+    },
+    {
+      "path": "golang-generate-json-files-list/README.md"
+    },
+    {
+      "path": "golang-generate-json-files-list/golang-generate-json-files-list.tmpl"
+    },
+    {
+      "path": "golang-use-slog-logging/golang-use-slog-logging.tmpl"
+    },
+    {
+      "path": "golangci/.golangci.yml"
+    },
+    {
+      "path": "grumpycaribou/001-homebrew-base.sh"
+    },
+    {
+      "path": "grumpycaribou/002-homebrew-configured.sh"
+    },
+    {
+      "path": "grumpycaribou/README.md"
+    },
+    {
+      "path": "grumpycaribou/justfile"
+    },
+    {
+      "path": "grumpycaribou/main.tf"
+    },
+    {
+      "path": "grumpycaribou/required_plugins.pkr.hcl"
+    },
+    {
+      "path": "grumpycaribou/{{ .Script1 }}"
+    },
+    {
+      "path": "grumpycaribou/{{ .Script2 }}"
+    },
+    {
+      "path": "justfile/justfile.tmpl"
+    },
+    {
+      "path": "langchain-recursive-demo/langchain-recursive-demo.tmpl"
+    },
+    {
+      "path": "learning-jq-delete-fields/learning-jq-delete-fields.tmpl"
+    },
+    {
+      "path": "logging-to-stderr/logging-to-stderr.tmpl"
+    },
+    {
+      "path": "manyeast.code-workspace"
+    },
+    {
+      "path": "my-bump-version-python/.bumpversion.toml"
+    },
+    {
+      "path": "new-item/README.md"
+    },
+    {
+      "path": "new-item/{{ .Folder }}/README.md"
+    },
+    {
+      "path": "new-item/{{ .Folder }}/{{ .Folder }}.tmpl"
+    },
+    {
+      "path": "nlp-product-classification/classification.tmpl"
+    },
+    {
+      "path": "no-preamble/no-preamble.tmpl"
+    },
+    {
+      "path": "pnpm/pnpm.tmpl"
+    },
+    {
+      "path": "pnpm-project/pnpm-project.tmpl"
+    },
+    {
+      "path": "prettier/.pre-commit-config.yaml"
+    },
+    {
+      "path": "prettier/.prettierignore"
+    },
+    {
+      "path": "prettier/.prettierrc.json"
+    },
+    {
+      "path": "prettier/justfile"
+    },
+    {
+      "path": "project-scaffold/project-scaffold.tmpl"
+    },
+    {
+      "path": "python-access-neo4j/prompt.tmpl"
+    },
+    {
+      "path": "python-imports-absolute/python-imports-absolute.tmpl"
+    },
+    {
+      "path": "python-package/python-package.tmpl"
+    },
+    {
+      "path": "readme-be-brief/readme-be-brief.tmpl"
+    },
+    {
+      "path": "readme-in-org-mode/readme-in-org-mode.tmpl"
+    },
+    {
+      "path": "regalraven/.air.toml"
+    },
+    {
+      "path": "regalraven/.fresh.conf"
+    },
+    {
+      "path": "regalraven/.watch_extension.sh"
+    },
+    {
+      "path": "regalraven/README.md"
+    },
+    {
+      "path": "regalraven/justfile"
+    },
+    {
+      "path": "regalraven/src/background/service-worker.ts"
+    },
+    {
+      "path": "regalraven/src/content/content-script.ts"
+    },
+    {
+      "path": "regalraven/src/manifest.json"
+    },
+    {
+      "path": "regalraven/src/popup/index.html"
+    },
+    {
+      "path": "regalraven/src/popup/index.tsx"
+    },
+    {
+      "path": "regalraven/tsconfig.json"
+    },
+    {
+      "path": "regalraven/vite.config.ts"
+    },
+    {
+      "path": "remove-tracking-id-from-links/README.md"
+    },
+    {
+      "path": "remove-tracking-id-from-links/remove-tracking-id-from-links.tmpl"
+    },
+    {
+      "path": "silence-is-golden/silence-is-golden.tmpl"
+    },
+    {
+      "path": "solid-principles/solid-principles.tmpl"
+    },
+    {
+      "path": "tldr/tldr.tmpl"
+    },
+    {
+      "path": "txtar/txtar.tmpl"
+    },
+    {
+      "path": "use-vite/use-vite.tmpl"
+    },
+    {
+      "path": "webui-common/README.md"
+    },
+    {
+      "path": "webui-common/webui-common.tmpl"
+    },
+    {
+      "path": "zoomingzeebra/README.md"
+    },
+    {
+      "path": "zoomingzeebra/custom-runner.js"
+    },
+    {
+      "path": "zoomingzeebra/justfile"
+    },
+    {
+      "path": "zoomingzeebra/zoomingzeebra-patch"
+    }
+  ],
+  "metadata": {
+    "average_file_size": 769.1413043478261,
+    "average_file_size_human": "769B",
+    "directory_count_found": 50,
+    "path_count_found": 92
+  }
+}
